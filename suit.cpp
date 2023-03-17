@@ -5,7 +5,8 @@ using namespace std;
 
     string character, bot, hasil;
     unsigned short int  MC;
-
+	
+//	aplikasi tidak dapat berjalan dengan benar di windows
 void preambule() {
     cout << "           ⠀⠀⠀⣠⣤⣤⣤⣤⣤⣶⣦⣤⣄⡀\n";
     cout << "       ⠀⠀⠀⢀⣴⣿⡿⠛⠉⠙⠛⠛⠛⠛⠻⢿⣿⣷⣤.        ==================================================\n";
